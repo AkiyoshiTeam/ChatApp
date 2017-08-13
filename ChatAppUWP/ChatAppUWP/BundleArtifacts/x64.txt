@@ -1,0 +1,2 @@
+MainPackage=C:\Users\mjnht\onedrive\documents\visual studio 2017\Projects\ChatAppUWP\ChatAppUWP\bin\x64\Debug\ChatAppUWP_1.0.0.0_x64_Debug.appx
+SymbolPackage=C:\Users\mjnht\onedrive\documents\visual studio 2017\Projects\ChatAppUWP\ChatAppUWP\AppPackages\ChatAppUWP_1.0.0.0_Debug_Test\ChatAppUWP_1.0.0.0_x64_Debug.appxsym
